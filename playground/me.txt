@@ -1,5 +1,0 @@
-{{#user}}
-Name: Abdullah Abdurazaq
-Skills: HTML/CSS, JavaScript, Responsive Design, Front-End Frameworks (React, Vue.js), UI/UX Design, Version Control (Git), Server-Side Programming (Node.js, Python), Databases (MongoDB, SQL), APIs (RESTful), Authentication/Authorization, Web Servers (Apache, Nginx), Back-End Frameworks (Express.js, Django), Command Line Proficiency, Testing/Debugging, Agile/Scrum Methodology, Problem-Solving, Security Best Practices, Deployment, Collaboration
-Email: ayyubiy67@gmail.com
-{{/user}}
